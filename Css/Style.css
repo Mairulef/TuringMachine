@@ -1,0 +1,83 @@
+body.étoile{
+    background-image: url(../Image/backgrounddocument.jpg);
+    color:aliceblue;
+
+  
+}
+body.principale{
+    background-image: url(../Image/trompincipale-techno.jpg);
+    color:aliceblue;}
+    
+body.Supernova{
+    background-image: url(../Image/frdméca.jpg);
+    color:aliceblue
+}
+body.Galaxie{
+    background-image: url(../Image/passwordcropped.png.jpg);
+    color:aliceblue
+}
+body.Source{
+    background-image: url(../Image/5050cvraimentbon.jpg);
+    color:aliceblue
+}
+
+
+
+div.Top-menu nav.menu ul li.bouttons_menu{
+    display: inline-block;
+    list-style-type: none;
+    padding: auto;
+}
+
+div.Top-menu nav.menu ul li.bouttons_menu a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 20, 202);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+div.Top-menu nav.menu ul li.bouttons_menu:hover a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 20, 202);
+    transition: 350ms;
+}
+
+div.Top-menu {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+div.Top-menu nav.menu ul li.bouttons_menu{
+    display: inline-block;
+    list-style-type: none;
+    padding: auto;
+}
+
+div.Top-menu2 nav.menu ul li.bouttons_menu a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 20, 202);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+div.Top-menu2 nav.menu ul li.bouttons_menu:hover a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 20, 202);
+    transition: 350ms;
+}
+
+div.Top-menu2 {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.lulz {
+    margin: 30px;
+}
